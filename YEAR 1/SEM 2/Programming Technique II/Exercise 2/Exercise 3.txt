@@ -1,0 +1,59 @@
+Exercise 3
+
+1.
+
+Before calling change:
+a1   a2   a3
+111  222  333
+
+Before changing the values:
+f1   f2   f3
+111  222  333
+
+After changing the values:
+f1   f2   f3
+999  888  777
+
+After calling change values:
+a1   a2   a3
+111  888  333
+
+
+
+2.
+
+class Trial {
+    private int a;
+    private String b;
+
+    Trial(int _a, String _b) { // Missing second parameter
+        a = _a;
+        b = _b;
+    }
+
+    public void setAB(int num, String str) {
+        a = num;
+        b = str;
+    }
+
+    public int getA() {
+        return a;
+    }
+
+    public void show() {
+        System.out.println("A: " + getA());
+        System.out.println("B: " + b);
+    }
+}
+
+class TrialTest {
+
+    public static void main(String[] args) {
+        Trial ac = new Trial(5, "Five");
+        ac.setAB(10, "Ten"); // private access
+        ac.setAB(6, "Six"); // private access
+
+        int valueA = ac.getA(); // Proper method call
+        ac.show();
+    }
+}

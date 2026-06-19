@@ -1,0 +1,55 @@
+Exercise 2
+
+1.
+public class Order {
+    private int orderNum;
+    private double orderAmount;
+    private double orderDiscount;
+
+    public Order(int orderNumber, double orderAmt, double orderDisc) {
+        orderNum = orderNumber;
+        orderAmount = orderAmt;
+        orderDiscount = orderDisc;
+    }
+
+    //change return type to double
+    public double getOrderAmount() {
+        return orderAmount;
+    }
+
+    //change return type to double
+    public double getOrderDiscount() {
+        return orderDiscount;
+    }
+}
+
+public class CustomerOrder {
+
+    public static void main(String[] args) {
+        int ordNum = 1234;
+        double ordAmount = 580.00;
+        double discountPer = 0.1;
+
+        // Correctly initialize Order object
+        Order order = new Order(ordNum, ordAmount, discountPer);
+
+        double finalAmount = order.getOrderAmount() - order.getOrderAmount() * order.getOrderDiscount();
+
+        System.out.println("Final order amount = $ " + finalAmount);
+    }
+}
+
+2. 
+
++------------------------------+
+|      Rectangle               |
++------------------------------+
+| - width: double              |
+| - height: double             |
++------------------------------+
+| + Rectangle(double， double)  |
+| + getWidth(): double         |
+| + getHeight(): double        |
+| + findArea(): double         |
++------------------------------+
+
