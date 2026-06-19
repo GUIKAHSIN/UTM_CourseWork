@@ -1,0 +1,100 @@
+<mxfile host="app.diagrams.net" modified="2024-06-28T16:28:28.395Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="2YddwBNTHeBfBxNA8H0r" version="24.6.4" type="device">
+  <diagram name="第 1 页" id="J6F30XTEVj9mLQv673lk">
+    <mxGraphModel dx="478" dy="193" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sV6d2slEQIjxnW0DSWj8-1" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="80" as="sourcePoint" />
+            <mxPoint x="2080" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sV6d2slEQIjxnW0DSWj8-2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="400" as="sourcePoint" />
+            <mxPoint x="2650" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sV6d2slEQIjxnW0DSWj8-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="800" as="sourcePoint" />
+            <mxPoint x="2640" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sV6d2slEQIjxnW0DSWj8-4" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="1200" as="sourcePoint" />
+            <mxPoint x="2630" y="1200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sV6d2slEQIjxnW0DSWj8-5" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="1520" as="sourcePoint" />
+            <mxPoint x="2640" y="1520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sV6d2slEQIjxnW0DSWj8-6" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;Initialization&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="220" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sV6d2slEQIjxnW0DSWj8-7" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;Input/Processing&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="540" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sV6d2slEQIjxnW0DSWj8-8" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;Output/Prompting&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="96.25" y="950" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sV6d2slEQIjxnW0DSWj8-10" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;End Point&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1330" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sV6d2slEQIjxnW0DSWj8-12" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;Define sideHex1, sideHex2, Perimeter_hexagon1, Perimeter_hexagon2, TotalPerimeter&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;align=center;" vertex="1" parent="1">
+          <mxGeometry x="440" y="147.5" width="270" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="sV6d2slEQIjxnW0DSWj8-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sV6d2slEQIjxnW0DSWj8-19" target="sV6d2slEQIjxnW0DSWj8-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="540" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sV6d2slEQIjxnW0DSWj8-19" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Input side of Hexagon 1 and side of Hexagon 2 and assign to sideHex1 and sexHex2 respectively&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="460" width="256.25" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="sV6d2slEQIjxnW0DSWj8-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sV6d2slEQIjxnW0DSWj8-22" target="sV6d2slEQIjxnW0DSWj8-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sV6d2slEQIjxnW0DSWj8-22" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Perform addition of sideHex1 by looping 6 times and assign to Perimeter_hexagon1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="460" width="220" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="sV6d2slEQIjxnW0DSWj8-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sV6d2slEQIjxnW0DSWj8-24" target="sV6d2slEQIjxnW0DSWj8-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sV6d2slEQIjxnW0DSWj8-24" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Perform addition of sideHex2 by looping 6 times and assign to Perimeter_hexagon2&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="460" width="220" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="sV6d2slEQIjxnW0DSWj8-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sV6d2slEQIjxnW0DSWj8-26" target="sV6d2slEQIjxnW0DSWj8-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sV6d2slEQIjxnW0DSWj8-26" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Perform addition of Perimeter_hexagon1 and&amp;nbsp; Perimeter_hexagon2 and assign to&amp;nbsp;TotalPerimeter&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1017.5" y="660" width="245" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="sV6d2slEQIjxnW0DSWj8-28" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Display Perimeter_hexagon1, Perimeter_hexagon2 and TotalPerimeter&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1017.5" y="920" width="245" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="sV6d2slEQIjxnW0DSWj8-32" value="cv" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1140" y="1280" as="targetPoint" />
+            <mxPoint x="1139.29" y="1040" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sV6d2slEQIjxnW0DSWj8-36" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;End Program&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="1280" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="sV6d2slEQIjxnW0DSWj8-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="sV6d2slEQIjxnW0DSWj8-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="567.41" y="562.5" as="targetPoint" />
+            <mxPoint x="566.6999999999999" y="322.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
