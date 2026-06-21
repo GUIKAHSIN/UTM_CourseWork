@@ -8,8 +8,7 @@ Discrete Structure introduces mathematical concepts used in computer science inc
 
 - Assignment 1
 - Assignment 2
-- Tutorial Exercises
-- Final Notes
+- Lab
 
 ## 🌱 Reflection
 
