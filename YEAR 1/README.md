@@ -8,16 +8,16 @@ The first year focused on building a strong foundation in programming, logical t
 
 # 📚 Academic Overview
 
-Throughout Year 1, knowledge and practical skills were developed in:
+Throughout Year 1, knowledge and practical skills were developed through the following courses:
 
-* Programming Fundamentals
-* Algorithmic Thinking
-* Problem Solving
-* Computer Systems
 * Digital Logic
-* Information Technology
-* System Analysis and Design
-* Probability and Statistics
+* Discrete Structure
+* Programming Technique I
+* Technology & Information System (TIS)
+* Computer Organization & Architecture
+* Probability & Statistical Data Analysis
+* Programming Technique II
+* System Analysis & Design
 
 ---
 
