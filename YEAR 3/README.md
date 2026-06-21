@@ -6,19 +6,17 @@ Year 3 marked my transition into specialized Data Engineering and Analytics topi
 
 ---
 
-# 📖 Semester Navigation
-
 ## 🚀 Semester 5
 
 📂 Open Semester 5 → [Semester 5](./SEM%201)
 
 ### Courses
 
-| Course                                    | Link                                                                     |
-| ----------------------------------------- | ------------------------------------------------------------------------ |
-| Artificial Intelligence                   | [Explore](./SEM%201/Artificial%20Intelligence)                           |
-| Database Programming                      | [Explore](./SEM%201/Database%20Programming)                              |
-| Enterprise System Development & Modelling | [Explore](./SEM%201/Enterprise%20System%20Development%20%26%20Modelling) |
+| Course                                    | Description                                                                   | Link                                                                     |
+| ----------------------------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| Artificial Intelligence                   | Machine learning, search algorithms, intelligent systems, and neural networks | [Explore](./SEM%201/Artificial%20Intelligence)                           |
+| Database Programming                      | Advanced database concepts, MongoDB, and database-driven applications         | [Explore](./SEM%201/Database%20Programming)                              |
+| Enterprise System Development & Modelling | Enterprise system analysis, modelling, and business process design            | [Explore](./SEM%201/Enterprise%20System%20Development%20%26%20Modelling) |
 
 ---
 
@@ -28,12 +26,13 @@ Year 3 marked my transition into specialized Data Engineering and Analytics topi
 
 ### Courses
 
-| Course                            | Link                                                           |
-| --------------------------------- | -------------------------------------------------------------- |
-| Application Development           | [Explore](./SEM%202/Application%20Development)                 |
-| Business Intelligence             | [Explore](./SEM%202/Business%20Intelligence)                   |
-| High Performance Data Processing  | [Explore](./SEM%202/High%20Performance%20Data%20Processing)    |
-| Special Topic in Data Engineering | [Explore](./SEM%202/Special%20Topic%20in%20Data%20Engineering) |
+| Course                            | Description                                                                     | Link                                                           |
+| --------------------------------- | ------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| Application Development           | Mobile and web application development using modern frameworks                  | [Explore](./SEM%202/Application%20Development)                 |
+| Business Intelligence             | Data transformation, analytics, and dashboard development                       | [Explore](./SEM%202/Business%20Intelligence)                   |
+| High Performance Data Processing  | Large-scale data processing and performance optimization techniques             | [Explore](./SEM%202/High%20Performance%20Data%20Processing)    |
+| Special Topic in Data Engineering | Modern data engineering technologies, cloud platforms, and analytical pipelines | [Explore](./SEM%202/Special%20Topic%20in%20Data%20Engineering) |
+
 
 ---
 
