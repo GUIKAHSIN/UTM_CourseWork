@@ -27,14 +27,12 @@ Throughout Year 1, knowledge and practical skills were developed through the fol
 
 📂 Open Semester 1 → [Semester 1](./SEM%201)
 
-### Courses
-
-| Course                                | Description                                                                      |
-| ------------------------------------- | -------------------------------------------------------------------------------- |
-| Technology & Information System (TIS) | Introduction to information technology and its role in organizations and society |
-| Programming Technique I               | Fundamental programming concepts using C++                                       |
-| Digital Logic                         | Digital circuits, logic gates, and computer hardware fundamentals                |
-| Discrete Structure                    | Mathematical foundations for computing and problem solving                       |
+| Course                                | Description                                                                      | Link                                                                     |
+| ------------------------------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| Technology & Information System (TIS) | Introduction to information technology and its role in organizations and society | [Explore](./SEM%201/Technology%20%26%20Information%20System%20%28TIS%29) |
+| Programming Technique I               | Fundamental programming concepts using C++                                       | [Explore](./SEM%201/Programming%20Technique%20I)                         |
+| Digital Logic                         | Digital circuits, logic gates, and computer hardware fundamentals                | [Explore](./SEM%201/Digital%20Logic)                                     |
+| Discrete Structure                    | Mathematical foundations for computing and problem solving                       | [Explore](./SEM%201/Discrete%20Structure)                                |
 
 ---
 
@@ -42,14 +40,12 @@ Throughout Year 1, knowledge and practical skills were developed through the fol
 
 📂 Open Semester 2 → [Semester 2](./SEM%202)
 
-### Courses
-
-| Course                                  | Description                                                                |
-| --------------------------------------- | -------------------------------------------------------------------------- |
-| Programming Technique II                | Advanced programming concepts and problem-solving techniques               |
-| Computer Organization & Architecture    | Internal computer structure, CPU, memory, and instruction execution        |
-| Probability & Statistical Data Analysis | Statistical methods and data analysis fundamentals                         |
-| System Analysis & Design                | System development life cycle, requirements analysis, and system modelling |
+| Course                                  | Description                                                                | Link                                                                   |
+| --------------------------------------- | -------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| Programming Technique II                | Advanced programming concepts and problem-solving techniques               | [Explore](./SEM%202/Programming%20Technique%20II)                      |
+| Computer Organization & Architecture    | Internal computer structure, CPU, memory, and instruction execution        | [Explore](./SEM%202/Computer%20Organization%20%26%20Architecture)      |
+| Probability & Statistical Data Analysis | Statistical methods and data analysis fundamentals                         | [Explore](./SEM%202/Probability%20%26%20Statistical%20Data%20Analysis) |
+| System Analysis & Design                | System development life cycle, requirements analysis, and system modelling | [Explore](./SEM%202/System%20Analysis%20%26%20Design)                  |
 
 ---
 
