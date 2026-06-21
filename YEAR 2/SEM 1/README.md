@@ -22,11 +22,12 @@ This semester focused on software development, database systems, networking, alg
 
 ## 📊 Data Structure & Algorithm
 
-This course introduced fundamental data structures and algorithms used to organize and process data efficiently. Practical activities were conducted using Jupyter Notebook, where libraries such as NumPy, Pandas, and Matplotlib were used to perform data manipulation and visualization tasks.
+This course introduced fundamental data structures and algorithms used to organize and process data efficiently. Topics included arrays, linked lists, stacks, queues, trees, sorting algorithms, and searching techniques.
 
 ### Reflection
 
-Data Structure & Algorithm was one of the more challenging courses during the semester. Besides learning traditional data structures and algorithms, the course also introduced Python libraries such as NumPy, Pandas, and Matplotlib for data processing and visualization. Although the course required significant effort to understand both programming concepts and algorithm efficiency, it provided valuable exposure to tools that later became useful in data analytics and data engineering projects.
+Data Structure & Algorithm significantly improved my problem-solving and programming abilities. Learning how different data structures and algorithms affect performance helped me understand the importance of writing efficient and scalable programs. The course strengthened my analytical thinking and logical reasoning skills while providing a solid foundation for future software development and technical subjects. Although some algorithm-related concepts were challenging, the knowledge gained became one of the most valuable foundations throughout my computing studies.
+
 
 ---
 
