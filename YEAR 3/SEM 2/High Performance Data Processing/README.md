@@ -11,7 +11,6 @@ High Performance Data Processing focuses on techniques and technologies used to 
 * Assignment 1
 * Assignment 2
 * High Performance Web Crawler Project
-* Performance Analysis Reports
 
 ---
 
