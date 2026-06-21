@@ -6,9 +6,9 @@ Year 3 marked my transition into specialized Data Engineering and Analytics topi
 
 ---
 
-## 🚀 Semester 5
+## 🚀 Semester 1
 
-📂 Open Semester 5 → [Semester 5](./SEM%201)
+📂 Open Semester 1 → [Semester 1](./SEM%201)
 
 ### Courses
 
@@ -20,9 +20,9 @@ Year 3 marked my transition into specialized Data Engineering and Analytics topi
 
 ---
 
-## 🌟 Semester 6
+## 🌟 Semester 2
 
-📂 Open Semester 6 → [Semester 6](./SEM%202)
+📂 Open Semester 2 → [Semester 2](./SEM%202)
 
 ### Courses
 
