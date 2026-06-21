@@ -6,6 +6,16 @@ Business Intelligence focuses on transforming raw data into meaningful informati
 
 ---
 
+## 📝 Evidence
+
+* Individual Lab Activities
+* Group BI Lab
+* Business Intelligence Assignment
+* Dashboard Development
+* Alteryx Workflows
+  
+---
+
 ## 🚀 Featured Project: Business Intelligence Analytics Project
 
 The Business Intelligence project involved preparing, transforming, and analyzing business datasets to generate meaningful insights and support decision-making.
@@ -26,16 +36,6 @@ The Business Intelligence project involved preparing, transforming, and analyzin
 * Power BI
 * Excel
 * SQL
-
----
-
-## 📝 Evidence
-
-* Individual Lab Activities
-* Group BI Lab
-* Business Intelligence Assignment
-* Dashboard Development
-* Alteryx Workflows
 
 ---
 
