@@ -30,13 +30,13 @@ Throughout Year 2, knowledge and practical skills were developed through the fol
 
 ### Courses
 
-| Course                        | Link                                                    |
-| ----------------------------- | ------------------------------------------------------- |
-| Data Structure & Algorithm    | [Explore](./SEM%201/Data%20Structure%20And%20Algorithm) |
-| Database (WBL)                | [Explore](./SEM%201/Database%20%28WBL%29)               |
-| Network Communications        | [Explore](./SEM%201/Network%20Communications)           |
-| Software Engineering (WBL)    | [Explore](./SEM%201/Software%20Engineering%20%28WBL%29) |
-| System Development Technology | [Explore](./SEM%201/System%20Development%20Technology)  |
+| Course                        | Description                                                                          | Link                                                    |
+| ----------------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------- |
+| Data Structure & Algorithm    | Data structures, algorithms, problem solving, and program efficiency                 | [Explore](./SEM%201/Data%20Structure%20And%20Algorithm) |
+| Database (WBL)                | Relational database design, SQL, normalization, and database management              | [Explore](./SEM%201/Database%20%28WBL%29)               |
+| Network Communications        | Computer networking, communication protocols, IP addressing, and subnetting          | [Explore](./SEM%201/Network%20Communications)           |
+| Software Engineering (WBL)    | Software development methodologies, requirements analysis, and project documentation | [Explore](./SEM%201/Software%20Engineering%20%28WBL%29) |
+| System Development Technology | System development practices, implementation planning, and software documentation    | [Explore](./SEM%201/System%20Development%20Technology)  |
 
 ---
 
@@ -46,12 +46,13 @@ Throughout Year 2, knowledge and practical skills were developed through the fol
 
 ### Courses
 
-| Course                      | Link                                                 |
-| --------------------------- | ---------------------------------------------------- |
-| Data Analytics Programming  | [Explore](./SEM%202/Data%20Analytics%20Programming)  |
-| Data Mining                 | [Explore](./SEM%202/Data%20Mining)                   |
-| Object-Oriented Programming | [Explore](./SEM%202/Object%20Oriented%20Programming) |
-| Operating Systems           | [Explore](./SEM%202/Operating%20Systems)             |
+| Course                      | Description                                                                       | Link                                                 |
+| --------------------------- | --------------------------------------------------------------------------------- | ---------------------------------------------------- |
+| Data Analytics Programming  | Data cleaning, analysis, visualization, and Python data science libraries         | [Explore](./SEM%202/Data%20Analytics%20Programming)  |
+| Data Mining                 | Data preprocessing, pattern discovery, machine learning, and knowledge extraction | [Explore](./SEM%202/Data%20Mining)                   |
+| Object-Oriented Programming | Object-oriented concepts including classes, inheritance, and polymorphism         | [Explore](./SEM%202/Object%20Oriented%20Programming) |
+| Operating Systems           | Process management, memory management, scheduling, and file systems               | [Explore](./SEM%202/Operating%20Systems)             |
+
 
 ---
 
