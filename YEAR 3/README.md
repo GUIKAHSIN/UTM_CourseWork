@@ -31,7 +31,7 @@ Year 3 marked my transition into specialized Data Engineering and Analytics topi
 | Application Development           | Mobile and web application development using modern frameworks                  | [Explore](./SEM%202/Application%20Development)                 |
 | Business Intelligence             | Data transformation, analytics, and dashboard development                       | [Explore](./SEM%202/Business%20Intelligence)                   |
 | High Performance Data Processing  | Large-scale data processing and performance optimization techniques             | [Explore](./SEM%202/High%20Performance%20Data%20Processing)    |
-| Special Topic in Data Engineering | Modern data engineering technologies, cloud platforms, and analytical pipelines | [Explore](./SEM%202/Special%20Topic%20in%20Data%20Engineering) |
+| Special Topic in Data Engineering | Modern data engineering technologies, cloud platforms, and analytical pipelines | [Explore](./SEM%202/Special%20Topic%20In%20Data%20Engineering) |
 
 
 ---
