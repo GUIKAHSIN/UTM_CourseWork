@@ -16,7 +16,7 @@ Year 3 marked my transition into specialized Data Engineering and Analytics topi
 | ----------------------------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
 | Artificial Intelligence                   | Machine learning, search algorithms, intelligent systems, and neural networks | [Explore](./SEM%201/Artificial%20Intelligence)                           |
 | Database Programming                      | Advanced database concepts, MongoDB, and database-driven applications         | [Explore](./SEM%201/Database%20Programming)                              |
-| Enterprise System Development & Modelling | Enterprise system analysis, modelling, and business process design            | [Explore](./SEM%201/Enterprise%20System%20Development%20%26%20Modelling) |
+| Enterprise System Development & Modelling | Enterprise system analysis, modelling, and business process design            | [Explore](./SEM%201/Enterprise%20Systems%20Design%20And%20Modeling%20(WBL)) |
 
 ---
 
