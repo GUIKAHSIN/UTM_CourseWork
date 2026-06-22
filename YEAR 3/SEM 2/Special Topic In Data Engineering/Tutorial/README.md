@@ -1,46 +1,49 @@
-# 📚 Repository Contents
+# 📚 Tutorial 
 
-This folder contains course materials, reports, presentations, and tutorials completed for the Special Topic in Data Engineering course.
+This folder contains four hands-on tutorials completed throughout the Special Topic in Data Engineering course. The tutorials cover cloud computing, big data processing, artificial intelligence, and AI-assisted data engineering workflows.
 
 ---
 
 ## 📂 Tutorials
 
-| Tutorial | Topic |
-|-----------|-----------|
-| [☁️ Tutorial 1 - Microsoft Azure](./Tutorial/Tutorial%201%20-%20Microsoft%20Azure) | Cloud Computing & Azure Services |
-| [⚡ Tutorial 2 - Apache Spark](./Tutorial/Tutorial%202%20-%20Apache%20Spark) | Big Data Processing |
-| [🤖 Tutorial 3 - AI CNN](./Tutorial/Tutorial%203%20-%20AI%20CNN) | Deep Learning & Image Classification |
-| [🚀 Tutorial 4 - AI Workflow for Data Engineering](./Tutorial/Tutorial%204%20-%20AI%20Workflow%20For%20Data%20Engineering) | AI-Assisted Data Engineering |
+| Tutorial                     | Topic                                | Description                                                          |
+| ---------------------------- | ------------------------------------ | -------------------------------------------------------------------- |
+| [Tutorial 1](./Tutorial%201) | Microsoft Azure                      | Introduction to cloud-based data engineering and Azure services      |
+| [Tutorial 2](./Tutorial%202) | Apache Spark                         | Distributed computing and big data processing                        |
+| [Tutorial 3](./Tutorial%203) | AI Algorithms (ANN & CNN)            | Deep learning and image classification                               |
+| [Tutorial 4](./Tutorial%204) | The AI Workflow for Data Engineering | AI-assisted pipeline development using modern data engineering tools |
 
 ---
 
-## 📄 Reports & Presentations
+## 🛠 Technologies Covered
 
-| Resource | Description |
-|-----------|-----------|
-| Data Architecture in Data Engineering | Academic writing and architecture discussion |
-| Group4_TechnicalReport.pdf | Group technical report |
-| Textbook Presentation.pdf | Textbook presentation slides |
-
----
-
-## 🎯 Key Technologies
-
-- Microsoft Azure
-- Apache Spark
-- TensorFlow & Keras
-- Snowflake
-- dbt
-- Claude AI
-- Cursor Pro
-- Python
-- SQL
+* Microsoft Azure
+* Apache Spark
+* Python
+* TensorFlow
+* Snowflake
+* dbt
+* Claude AI
+* Cursor Pro
 
 ---
 
-## 💡 Overall Reflection
+## 🎯 Learning Outcomes
 
-This course provided exposure to modern data engineering technologies ranging from cloud computing and big data processing to artificial intelligence and AI-assisted development workflows. Through a combination of tutorials, presentations, and technical reports, practical experience was gained in building scalable data solutions, developing machine learning models, and utilizing AI tools to accelerate data engineering tasks.
+Through these tutorials, practical experience was gained in:
 
-The course reinforced fundamental data engineering concepts while introducing emerging technologies that are increasingly adopted in industry environments. It also strengthened technical documentation, presentation, and problem-solving skills through both individual and group activities.
+* Cloud Computing
+* Distributed Data Processing
+* Machine Learning
+* Deep Learning
+* Data Pipeline Development
+* AI-Assisted Software Development
+* Modern Data Engineering Architectures
+
+---
+
+## 💡 Reflection
+
+The tutorial series provided exposure to technologies commonly used in modern data engineering environments. The progression from cloud computing and distributed processing to machine learning and AI-assisted development demonstrated how data engineering continues to evolve through automation and intelligent systems.
+
+These tutorials strengthened academic writing skills, technical understanding and practical implementation skills while providing valuable experience with industry-relevant tools and technologies.
