@@ -123,7 +123,7 @@ Key insights included:
 * Industry expectations and required skillsets
 * Emerging data technologies
 
-### Industry Talk: Telekom Malaysia (TM)
+### Industry Talk: [Telekom Malaysia (TM)](https://www.linkedin.com/posts/guikahsin_dataengineering-enterprisedata-telekommalaysia-ugcPost-7474834283849883648-It1K/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEnVX5kBotcud245C7Y0qEQpIBHhoFkC1hA)
 
 The Telekom Malaysia industry talk provided exposure to enterprise-scale technology environments and digital transformation initiatives. The session highlighted the importance of data, technology infrastructure, and innovation in supporting modern business operations.
 
