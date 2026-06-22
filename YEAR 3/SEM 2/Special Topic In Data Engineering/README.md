@@ -21,6 +21,23 @@ Special Topic in Data Engineering explores emerging technologies, modern archite
 | Industry Talk         | Telekom Malaysia (TM)                          |
 
 ---
+## 📖 Academic Activities
+
+### 📄 Technical Report – Data Architecture in Data Engineering
+
+The technical report explored the role of Data Architecture in supporting modern Data Engineering systems. The report discussed how data flows through ingestion, storage, processing, and serving layers while comparing Data Warehouses, Data Lakes, and Data Lakehouses. Emerging concepts such as Data Mesh, cloud-based architectures, and data governance were also investigated.
+
+This activity strengthened understanding of how well-designed architectures enable scalable, reliable, and data-driven decision-making within organizations.
+
+---
+
+### 🎤 Textbook Presentation – The Data Engineering Lifecycle
+
+The textbook presentation focused on the complete Data Engineering Lifecycle, covering data generation, ingestion, storage, transformation, and serving. Supporting concepts such as security, orchestration, architecture, DataOps, and software engineering were also discussed.
+
+This presentation provided a holistic view of how data moves from raw sources to valuable business insights and demonstrated the interconnected nature of modern data engineering practices.
+
+---
 
 ## 🚀 Featured Learning Activities
 
